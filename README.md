@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um entusiasta do Linux, utilizado como sistema principal a 5 anos, tenho experiencia com destaque em Bash, Administração do sistema Linux e Docker!</p>
+<p align="left">Sou um entusiasta do Linux, utilizado-o como sistema principal há 5 anos, tenho experiencia com destaque em Bash, Administração do sistema Linux e Docker!</p>
 
 ###
 
