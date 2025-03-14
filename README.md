@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Tecnologias e Programas que tego experience!</h3>
+<h3 align="left">Tecnologias que tenho experiencia!</h3>
 
 ###
 
